@@ -10,14 +10,14 @@ const data: Pet[] = [
     {
         type: 'dog',
         image: 'pastor-alemao.jpg',
-        name: 'Pastor-alemão',
+        name: 'Pastor Alemão',
         color: 'Amarelo e Preto',
         sex: 'Masculino'
     },
     {
         type: 'dog',
         image: 'labrador.jpg',
-        name: 'Labrador-retriever',
+        name: 'Labrador Retriever',
         color: 'Branco',
         sex: 'Masculino'
     },
