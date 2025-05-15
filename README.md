@@ -1,15 +1,19 @@
-# NodeTS-Canil
-A small practical project for "educational" purposes. B7Web Node.js course.
+# PetDevShop
 
+A small practical project for educational purposes. Class NodeTS-Canil from B7Web Node.js course.
 
-### Global Prerequisites
-`npm i -g nodemon typescript ts-node`
+### Install the dependencies
 
+```sh
+npm install
+```
 
-Note: If you want/prefer, you can install the global dependencies locally, just remove the `-g` from the command above.
+### Configure the '.env' file.
 
-### Installation
-`npm install`
+- Just rename the '.env.example' file to '.env' and fill the fields with necessary informations.
 
-### To run the project
-`npm run dev`
+### Run the project
+
+```sh
+npm run dev
+```
